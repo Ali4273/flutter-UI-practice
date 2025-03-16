@@ -1,17 +1,7 @@
-# flutter_cookies_app
+COOKIES APP UI
+Screenshots
+![front](https://github.com/user-attachments/assets/9f2f59aa-354b-4883-91ec-a8bf8eaa09ec)![WhatsApp Image 2025-03-16 at 04 46 44_4d9574f9](https://github.com/user-attachments/assets/5a260ce5-04cd-45c2-b8e4-94a592f93593)
+![WhatsApp Image 2025-03-16 at 04 46 53_e508e4a2](https://github.com/user-attachments/assets/d9c0c4b5-d405-4601-8f54-e549b06e7bef)![Uploading WhatsApp Image 2025-03-16 at 04.46.54_3274baea.jpg…]()
 
-A new Flutter project.
 
-## Getting Started
-![WhatsApp Image 2024-12-26 at 02 27 35_3dcc7f40](https://github.com/user-attachments/assets/628b5846-6480-4abe-88e4-78ac8ca883d9)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
